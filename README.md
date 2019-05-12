@@ -16,4 +16,4 @@ Nothing for now
 
 ### Coding Standard
 
-[Google Java Style Guide]: https://google.github.io/styleguide/javaguide.html
+[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
